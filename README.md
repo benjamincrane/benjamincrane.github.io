@@ -1,2 +1,3 @@
 # benjamincrane.github.io
-Portfolio Page
+Portfolio Page available here
+http://benjamincrane.github.io
